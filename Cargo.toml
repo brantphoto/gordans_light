@@ -1,0 +1,7 @@
+[package]
+name = "gordans_light"
+version = "0.1.0"
+authors = ["Brant Barger <brant.barger@gmail.com>"]
+
+[dependencies]
+rand = "0.3"
